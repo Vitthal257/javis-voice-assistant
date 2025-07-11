@@ -1,18 +1,1 @@
-Build a JARVIS-style AI voice assistant in React using JavaScript with these features:
 
-1. Add a button that starts voice recognition using the Web Speech API.
-   - When clicked, it listens to the user's voice and transcribes it.
-   - Display the transcribed text on screen.
-
-
-future devs:
-mailing
-better ui clicking png to start listnening'
-ollama intergration
-water remainder
-journaling voice
-dd animated JARVIS “eye” or waveform that reacts to voice.
-Show real-time voice input waveform or confidence meter
-productivtiy features
-greetings
-jarvis lookup scrapper intergration
