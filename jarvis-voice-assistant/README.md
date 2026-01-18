@@ -2,7 +2,7 @@
 
 A modern, JARVIS-style virtual assistant built with React. This project features voice recognition, voice output (with ElevenLabs or browser TTS), a beautiful futuristic UI, and customizable command handling.
 
-![JARVIS Banner](public/logo512.png)
+![JARVIS Banner](https://static.vecteezy.com/system/resources/previews/021/822/375/large_2x/cute-little-blue-shark-face-illustration-vector.jpg)
 
 ---
 
